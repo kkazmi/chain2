@@ -11,12 +11,12 @@
                   <?php //$this->load->view('include/other_menu')?>  
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>Exchange Your BTC To VCN</h2>
+                    <h2>Exchange Your BTC To TYCHO</h2>
                    <div class="title_right">
                             <div class="col-md-6 col-sm-6 col-xs-12 form-group pull-right" style="text-align:center;
 ">
 
-                              <div class="alert alert-block alert-success"><strong> Currenct exchnage rate : 1 BTC = <?php echo $askdata?> VCN</strong></div>
+                              <div class="alert alert-block alert-success"><strong> Currenct exchnage rate : 1 BTC = <?php echo $askdata?> TYCHO</strong></div>
                               
                             </div>
                           </div>
@@ -45,7 +45,7 @@
                         </div>
                       </div>
                       <div class="form-group">
-                        <label class="control-label col-md-3 col-sm-3 col-xs-12">VCN Amount <span class="required">*</span>
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">TYCHO Amount <span class="required">*</span>
                         </label>
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <input type="text" id="VCNamount" name="amount" class="form-control validate[required,custom[number],min[0]] col-md-7 col-xs-12" value="" onkeypress="return isNumberKey(event)">
