@@ -44,7 +44,7 @@
                 <h3>Useful Links</h3>
                  <ul class="nav side-menu">
                <li><a href="" target="_blank"><i class="fa fa-external-link"></i> Explorer</a></li>   
-              <li><a href="<?php echo base_url();?>exchange"><i class="fa fa-sign-out"></i> Get VCN</a></li>     
+              <li><a href="<?php echo base_url();?>exchange"><i class="fa fa-sign-out"></i> Get TYCHO</a></li>     
               <li><a href="<?php echo base_url()?>changepassword"><i class="fa fa-key"></i> Change Password</a></li>
               <li><a href="<?php echo base_url()?>changepin"><i class="fa fa-key"></i> Change Pin</a></li>
               <li><a href="<?php echo base_url()?>support"><i class="fa fa-envelope-o"></i> Support</a></li>
